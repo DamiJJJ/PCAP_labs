@@ -18,9 +18,7 @@
 #         print('To nie jest palindrom')
 
 # Rozwiązanie 2
-tekst = str(input("Wprowadź tekst: "))
-
-tekst = tekst.replace(' ', '').upper()
+tekst = str(input("Wprowadź tekst: ")).replace(' ', '').upper()
 
 if tekst == '':
     print('To nie jest palindrom')

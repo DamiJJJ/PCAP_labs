@@ -1,11 +1,8 @@
 # 5.8.1.8 Anagrams
 
 # Rozwiązanie 1
-# tekst1 = str(input("Wprowadź pierwszy tekst: "))
-# tekst2 = str(input("Wprowadź drugi tekst: "))
-
-# tekst1 = tekst1.replace(' ', '').upper()
-# tekst2 = tekst2.replace(' ', '').upper()
+# tekst1 = str(input("Wprowadź pierwszy tekst: ")).replace(' ', '').upper()
+# tekst2 = str(input("Wprowadź drugi tekst: ")).replace(' ', '').upper()
 # lst = []
 
 # if tekst1 == '' or tekst2 == '':
